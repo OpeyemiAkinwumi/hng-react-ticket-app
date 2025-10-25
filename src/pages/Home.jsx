@@ -131,7 +131,7 @@ function Home() {
 
           <div class="image-content">
             <img
-              src="dashboard-preview.png"
+              src="/dashboard-preview.png"
               alt="Faaji Sticks Dashboard Preview"
             />
           </div>

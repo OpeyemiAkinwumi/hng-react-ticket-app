@@ -1,16 +1,14 @@
-# React + Vite
+HNG INTERNSHIP
+Stage 2 Frontend Task
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the React Implementation of the Web Ticket App.
+I made use of Tailwind for styling, React Router for routing, React-icons for the icons used.
+For the authentication,
+All information pertaining to user sign up is stored in the local storage,
+Login session is stored in the session storage.
 
-Currently, two official plugins are available:
+Data pertaining to ticket creation, read, update and delete, is stored in the localstorage.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Live URL: https://hng-react-ticket-app.vercel.app/
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+GitHub repo: https://github.com/OpeyemiAkinwumi/hng-react-ticket-app/tree/main/public

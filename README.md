@@ -11,4 +11,4 @@ Data pertaining to ticket creation, read, update and delete, is stored in the lo
 
 Live URL: https://hng-react-ticket-app.vercel.app/
 
-GitHub repo: https://github.com/OpeyemiAkinwumi/hng-react-ticket-app/tree/main/public
+GitHub repo: https://github.com/OpeyemiAkinwumi/hng-react-ticket-app

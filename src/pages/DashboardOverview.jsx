@@ -2,7 +2,7 @@ import { useNavigate, Link } from "react-router";
 import { logoutUser } from "../utils/auth";
 import { useEffect, useState } from "react";
 
-export default function Dashboard() {
+export default function DashboardOverview() {
   const navigate = useNavigate();
   const [user, setUser] = useState(null);
   const [stats, setStats] = useState({
